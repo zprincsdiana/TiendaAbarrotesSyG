@@ -27,7 +27,6 @@ namespace TrabajoFinalWeb.Controllers
             //Pedido objNuevoPedido = new Pedido();
             //objNuevoPedido.Atendido = false;
             //objNuevoPedido.Detalle = txtNombreCliente.Text;
-            //objNuevoPedido.IdEmpleado = "ADMINMax";
         }
 
         // GET: Productos_Pedidos
